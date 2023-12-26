@@ -10,9 +10,9 @@
 </div>
 
 <div>
-<a href="https://github.com/LuccaGomes">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaGomes&layout=compact&langs_count=7&theme=dracula"/>
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=LuccaGomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/LuccaGiovane">
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaGiovane&layout=compact&langs_count=7&theme=dracula"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=LuccaGiovane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Contatos:
