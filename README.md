@@ -1,16 +1,19 @@
-### Oi! Eu sou o Lucca👋
+### <p align="center">OI, eu sou Lucca </p>
+<p align="center">
+  <img src="./img/Garou tattoo.gif" width="220" />
+</p>
 
 • 👨‍🎓 Graduando em Ciência da Computação pela Universidade Estadual de Londrina
 
 • 💻 Atualmente mais focado em: 
 <div display="inline">
-  <img whidith="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img whidith="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
 
 <div>
 <a href="https://github.com/LuccaGiovane">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaGiovane&layout=compact&langs_count=7&theme=dracula&count_private=false""/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaGiovane&layout=compact&langs_count=7&theme=dracula&count_private=false"/>
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=LuccaGiovane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
