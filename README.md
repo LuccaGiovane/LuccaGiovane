@@ -17,6 +17,7 @@
 ### Contatos:
 
 <div>
+  
 <a href="mailto:lucca.giovane.gomes@uel.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/luccagiovane/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
@@ -30,12 +31,18 @@
 </tr>
 </table>
 
+## 🎯 Interesses
+- Desenvolvimento de Software
+- Inteligência Artificial
+- Jogos
+- Animes
+
 </div>
 
 ## 📊 Estatísticas do GitHub
 <div style="display: flex; justify-content: center; width: 100%; margin-top: 20px;">
 <a href="https://github.com/LuccaGiovane">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaGiovane&layout=compact&langs_count=7&theme=dracula&count_private=false"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuccaGiovane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaGiovane&layout=compact&langs_count=7&theme=dracula&count_private=false"/>
+<img height="135em" src="https://github-readme-stats.vercel.app/api?username=LuccaGiovane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
