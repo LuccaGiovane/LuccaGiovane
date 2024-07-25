@@ -34,6 +34,7 @@
 ## 🎯 Interesses
 <div style="text-align: center;">
   <img src="./img/Prog.webp" alt="Desenvolvimento de Software" style="width: 150px; height: 150px; margin: 0 30px;">
+  <img src="./img/Anime.webp" alt="Animes" style="width: 150px; height: 150px; margin: 0 30px;">
   <img src="./img/MTG.webp" alt="Magic The Gathering" style="width: 150px; height: 150px; margin: 0 30px;">
   <img src="./img/LoL.webp" alt="League of Legends" style="width: 150px; height: 150px; margin: 0 30px;">
 </div>
