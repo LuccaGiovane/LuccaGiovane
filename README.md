@@ -6,7 +6,7 @@
 <tr style="border: none;">
 
 <td width="67.5%" style="border: none; text-align: center;">
-<br><br>• 👨🏻‍💻 Apaixonado por tecnologia e Desenvolvimento<br><br>
+<br><br>• 👨🏻‍💻 Apaixonado por Tecnologia e Desenvolvimento<br><br>
 • 👨‍🎓 Graduando em Ciência da Computação pela Universidade Estadual de Londrina <br><br>
 • 💻 Atualmente mais focado em: <br>
 <div style="display: inline-block;">
