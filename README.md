@@ -50,7 +50,7 @@
             <p align="center">Programming</p>
         </td>
         <td style="text-align: center;">
-            <img src="./img/Anime.webp" alt="Animes" style="width: 150px; height: 150px;">
+            <img src="./img/Anime.gif" alt="Animes" style="width: 150px; height: 150px;">
             <br>
             <p align="center">Animes</p>
         </td>
