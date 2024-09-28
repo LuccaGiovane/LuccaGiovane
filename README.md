@@ -1,4 +1,4 @@
-<h1 align="center">OI, eu sou Lucca </h1>
+<h1 align="center">HI, I'm Lucca 🖖🏻 </h1>
 
 <div align = "center">
 
@@ -6,16 +6,22 @@
 <tr style="border: none;">
 
 <td width="67.5%" style="border: none; text-align: center;">
-<br><br>• 👨🏻‍💻 Apaixonado por Tecnologia e Desenvolvimento<br><br>
-• 👨‍🎓 Graduando em Ciência da Computação pela Universidade Estadual de Londrina <br><br>
-• 💻 Atualmente mais focado em: <br>
+<br><br>• 👨🏻‍💻 Passionate about Technology and Development<br><br>
+• 👨‍🎓 Undergraduate student in Computer Science at the State University of Londrina <br><br>
+• 💻 Currently focused on: <br><br>
 <div style="display: inline-block;">
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="margin-right: 10px;" /> 
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="margin-right: 10px;" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" style="margin-right: 10px;" />
 </div> <br><br>
 
-<h2 align="center">Contatos:</h2>
+• 🧰 Tools:<br><br>
+<div style="display: inline-block;">
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"  />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />
+</div>
+<h2 align="center">Contacts:</h2>
 
 <div align="center">
   
@@ -26,7 +32,7 @@
 </td>
 
 <td align="center" style="border: none;">
-  <img src="./img/Garou tattoo.gif" width="220" />
+  <img src="./img/Garou tattoo.gif" width="320" />
 </td>
 
 </tr>
@@ -34,14 +40,14 @@
 
 <div align="center">
 
-<h1>🎯 Interesses</h1>
+<h1>🎯 Interests</h1>
 
 <table>
     <tr>
         <td style="text-align: center;">
             <img src="./img/Prog.webp" alt="Desenvolvimento de Software" style="width: 150px; height: 150px;">
             <br>
-            <p align="center">Coding</p>
+            <p align="center">Programming</p>
         </td>
         <td style="text-align: center;">
             <img src="./img/Anime.webp" alt="Animes" style="width: 150px; height: 150px;">
@@ -69,7 +75,7 @@
 
 
 <div align="center">
-<h1>📊 Estatísticas do GitHub</h1>
+<h1>📊 GitHub Stats</h1>
 <a href="https://github.com/LuccaGiovane">
 <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaGiovane&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
 <img height="135em" src="https://github-readme-stats.vercel.app/api?username=LuccaGiovane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
