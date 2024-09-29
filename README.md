@@ -77,7 +77,10 @@
 <div align="center">
 <h1>📊 GitHub Stats</h1>
 <a href="https://github.com/LuccaGiovane">
-<img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaGiovane&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
-<img height="135em" src="https://github-readme-stats.vercel.app/api?username=LuccaGiovane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=dracula&hide_border=true&username=LuccaGiovane" height="135em" alt="languages graph" />
+
+
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=LuccaGiovane" height="135em" alt="stats graph"  />
+
 </div>
 
