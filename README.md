@@ -1,4 +1,4 @@
-<h1 align="center">HI, I'm Lucca 🖖🏻 </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Lucca+🖖🏼;I'm+a+Computer+Science+Padawan🤓;Be+Welcome!+😄)](https://git.io/typing-svg)
 
 <div align = "center">
 
@@ -83,4 +83,3 @@
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=LuccaGiovane" height="135em" alt="stats graph"  />
 
 </div>
-
