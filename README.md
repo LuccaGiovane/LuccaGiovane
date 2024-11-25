@@ -18,8 +18,7 @@
 • 🧰 Tools:<br><br>
 <div style="display: inline-block;">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg"  />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
 </div>
 <h2 align="center">Contacts:</h2>
 
@@ -81,5 +80,10 @@
 
 
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=LuccaGiovane" height="135em" alt="stats graph"  />
+
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/LuccaGiovane/LuccaGiovane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake eating contributions">
+  </p>
+
 
 </div>
