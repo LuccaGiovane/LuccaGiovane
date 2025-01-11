@@ -12,8 +12,8 @@
 <!-- Focus -->
 <h2>🎯 Currently focused on</h2>
 <div style="display: inline-block;">
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="margin-right: 10px;" /> 
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="margin-right: 10px;" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="margin-right: 10px;" />
 </div> <br><br>
 
 <!-- Languages and Tools-->
@@ -55,7 +55,7 @@
 
 <!-- Contacts -->
 <h2>☎️ Contacts</h2>
-<div>
+<div align="center">
   <a href="mailto:lucca.giovane.gomes@uel.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luccagiovane/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/_luuuucca/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
