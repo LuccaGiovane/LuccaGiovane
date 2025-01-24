@@ -1,5 +1,5 @@
 <!-- Header -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6E25BE&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cdcf4&height=120&section=header"/>
 
 <!-- Presentation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;My+name+is+Lucca+🤙🏻;Undergraduate+student+in+Computer+Science;at+State+University+of+Londrina;Be+Welcome!+😄)](https://git.io/typing-svg)
@@ -42,10 +42,10 @@
 <div align="center">
   <a href="https://github.com/LuccaGiovane">
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=300&langs_count=8&theme=dracula&hide_border=true&username=LuccaGiovane" height="135em" alt="languages graph" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=300&langs_count=8&theme=react&hide_border=true&username=LuccaGiovane" height="135em" alt="languages graph" />
 
     
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=LuccaGiovane" height="135em" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&username=LuccaGiovane" height="135em" alt="stats graph"  />
 
  
   <!-- Snake -->
@@ -64,4 +64,4 @@
 </div>
 
 <!-- Footer -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6E25BE&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cdcf4&height=120&section=footer"/>
