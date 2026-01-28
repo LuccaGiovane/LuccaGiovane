@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cdcf4&height=120&section=header"/>
 
 <!-- Presentation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;My+name+is+Lucca+🤙🏻;Undergraduate+student+in+Computer+Science;at+State+University+of+Londrina;Be+Welcome!+😄)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;My+name+is+Lucca+🤙🏻;Bachelor+in+Computer+Science;State+University+of+Londrina;Be+Welcome!+😄)](https://git.io/typing-svg)
 
 <!-- Octocat -->
 <div align="center">
