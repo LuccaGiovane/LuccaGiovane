@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cdcf4&height=120&section=header"/>
 
 <!-- Presentation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5cdcf4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;My+name+is+Lucca;Computer+Science+Graduate+and+Master's+student+at+UEL;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5cdcf4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;My+name+is+Lucca;MSc+student+in+Computer+Science+at+UEL;Be+Welcome!)](https://git.io/typing-svg)
 
 <!-- Octocat -->
 <div align="center">
@@ -40,10 +40,12 @@
 
 <!-- Stats -->
 <h2>GitHub Stats</h2>
+<p align="center">
   <a href="https://github.com/LuccaGiovane">
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LuccaGiovane&layout=compact&langs_count=8&theme=calm&hide_border=true&title_color=5cdcf4&icon_color=5cdcf4&text_color=8b949e&bg_color=0d1117" height="135em" alt="languages graph" />
     <img src="https://github-stats-extended.vercel.app/api?username=LuccaGiovane&show_icons=true&include_all_commits=true&theme=calm&hide_border=true&title_color=5cdcf4&icon_color=5cdcf4&text_color=8b949e&bg_color=0d1117" height="135em" alt="stats graph" />
   </a>
+</p>
   <!-- Snake -->
   <p align="center">
     <img src="https://raw.githubusercontent.com/LuccaGiovane/LuccaGiovane/main/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake eating contributions" />
