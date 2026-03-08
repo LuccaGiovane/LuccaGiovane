@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cdcf4&height=120&section=header"/>
 
 <!-- Presentation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;My+name+is+Lucca+🤙🏻;Bachelor+in+Computer+Science;State+University+of+Londrina;Be+Welcome!+😄)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5cdcf4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;My+name+is+Lucca;Computer+Science+Graduate+and+Master's+student+at+UEL;Be+Welcome!)](https://git.io/typing-svg)
 
 <!-- Octocat -->
 <div align="center">
@@ -10,57 +10,58 @@
 </div>
 
 <!-- Focus -->
-<h2>🎯 Currently focused on</h2>
-<div style="display: inline-block;">
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" style="margin-right: 10px;" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" style="margin-right: 10px;" />
-  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knockout/knockout-plain-wordmark.svg" style="margin-right: 10px;" />
-</div> <br><br>
+<h2>Currently focused on</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Csharp-icon.svg" width="50" height="50" alt="C#" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/DotNet-icon.svg" width="50" height="50" alt=".NET" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Vue-icon.svg" width="50" height="50" alt="Vue.js" style="margin: 0 10px;" />
+</p>
+<br>
 
-<!-- Languages and Tools-->
-<h2>💻 Languages and Tools 🛠️</h2>
-<div style="display: inline-block;">
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="margin-right: 10px;" /> 
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="margin-right: 10px;" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="margin-right: 10px;" /> 
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="margin-right: 10px;" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" style="margin-right: 10px;" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="margin-right: 10px;" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="margin-right: 10px;" />
-</div> <br><br>
+<!-- Languages and Tools -->
+<h2>Languages and Tools</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Csharp-icon.svg" width="48" height="48" alt="C#" style="margin: 0 6px;" />
+  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/DotNet-icon.svg" width="48" height="48" alt=".NET" style="margin: 0 6px;" />
+  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Vue-icon.svg" width="48" height="48" alt="Vue.js" style="margin: 0 6px;" />
+  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/knockout-icon.svg" width="48" height="48" alt="Knockout.js" style="margin: 0 6px;" />
+  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Html-icon.svg" width="48" height="48" alt="HTML" style="margin: 0 6px;" />
+  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Css-icon.svg" width="48" height="48" alt="CSS" style="margin: 0 6px;" />
+  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Javascript-icon.svg" width="48" height="48" alt="JavaScript" style="margin: 0 6px;" />
+  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Git-icon.svg" width="48" height="48" alt="Git" style="margin: 0 6px;" />
+  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Github-icon.svg" width="48" height="48" alt="GitHub" style="margin: 0 6px;" />
+  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Postgres-icon.svg" width="48" height="48" alt="PostgreSQL" style="margin: 0 6px;" />
+  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Dbeaver-icon.svg" width="48" height="48" alt="Dbeaver" style="margin: 0 6px;" />
+  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Docker-icon.svg" width="48" height="48" alt="Docker" style="margin: 0 6px;" />
+  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Termius-icon.svg" width="48" height="48" alt="Termius" style="margin: 0 6px;" />
+  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/RabbitMQ-icon.svg" width="48" height="48" alt="RabbitMQ" style="margin: 0 6px;" />
+</p>
+<br>
 
 <!-- Stats -->
-<h2>📊 GitHub Stats</h2>
-<div align="center">
+<h2>GitHub Stats</h2>
   <a href="https://github.com/LuccaGiovane">
-
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=300&langs_count=8&count_private=true&theme=react&hide_border=true&username=LuccaGiovane&exclude_repo=UEL-CompGrafica" height="135em" alt="languages graph" />
-
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&username=LuccaGiovane" height="135em" alt="stats graph" />
-
-
+    <img src="https://raw.githubusercontent.com/LuccaGiovane/LuccaGiovane/main/output/top-langs.svg" height="135em" alt="languages graph" />
+    <img src="https://raw.githubusercontent.com/LuccaGiovane/LuccaGiovane/main/output/stats.svg" height="135em" alt="stats graph" />
+  </a>
   <!-- Snake -->
   <p align="center">
-    <img src="https://raw.githubusercontent.com/LuccaGiovane/LuccaGiovane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake eating contributions"></img></p>
- 
-
+    <img src="https://raw.githubusercontent.com/LuccaGiovane/LuccaGiovane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake eating contributions" />
+  </p>
 </div>
 
 <!-- Contacts -->
-<h2>☎️ Contacts</h2>
-<div align="center">
+<h2>Contacts</h2>
+<p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lucca.giovane.gomes@uel.br&su=Contato%20via%20GitHub&body=Olá%20Lucca," target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
+    <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Email-icon.svg" width="48" height="48" alt="Email" style="margin: 0 8px;" />
+  </a>
   <a href="https://www.linkedin.com/in/luccagiovane/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  
+    <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Linkedin-logo.svg" width="48" height="48" alt="LinkedIn" style="margin: 0 8px;" />
+  </a>
   <a href="https://www.instagram.com/_luuuucca/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  
-  <a href="https://luccagiovane.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=githubpages&logoColor=white"></a>
-</div>
+    <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Instagram-logo.svg" width="48" height="48" alt="Instagram" style="margin: 0 8px;" />
+</p>
 
 <!-- Footer -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cdcf4&height=120&section=footer"/>
