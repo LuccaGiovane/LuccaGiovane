@@ -41,8 +41,8 @@
 <!-- Stats -->
 <h2>GitHub Stats</h2>
   <a href="https://github.com/LuccaGiovane">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaGiovane&layout=compact&langs_count=8&theme=react&hide_border=true&title_color=5cdcf4&icon_color=5cdcf4&text_color=8b949e&bg_color=0d1117" height="135em" alt="languages graph" />
-    <img src="https://github-readme-stats.vercel.app/api?username=LuccaGiovane&show_icons=true&include_all_commits=true&theme=react&hide_border=true&title_color=5cdcf4&icon_color=5cdcf4&text_color=8b949e&bg_color=0d1117" height="135em" alt="stats graph" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LuccaGiovane&layout=compact&langs_count=8&theme=calm&hide_border=true&title_color=5cdcf4&icon_color=5cdcf4&text_color=8b949e&bg_color=0d1117" height="135em" alt="languages graph" />
+    <img src="https://github-stats-extended.vercel.app/api?username=LuccaGiovane&show_icons=true&include_all_commits=true&theme=calm&hide_border=true&title_color=5cdcf4&icon_color=5cdcf4&text_color=8b949e&bg_color=0d1117" height="135em" alt="stats graph" />
   </a>
   <!-- Snake -->
   <p align="center">
