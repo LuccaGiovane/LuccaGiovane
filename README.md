@@ -12,8 +12,8 @@
 <!-- Focus -->
 <h2>Currently focused on</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LuccaGiovane/LuccaGiovane/main/public/icons/nestjs-svgrepo-com.svg" width="50" height="50" alt="Nest" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/LuccaGiovane/LuccaGiovane/main/public/icons/nextjs-icon-svgrepo-com" width="50" height="50" alt="Next" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/LuccaGiovane/LuccaGiovane/main/img/nestjs-svgrepo-com.svg" width="50" height="50" alt="Nest" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/LuccaGiovane/LuccaGiovane/main/img/nextjs-icon-svgrepo-com.svg" width="50" height="50" alt="Next" style="margin: 0 10px;" />
 </p>
 <br>
 
