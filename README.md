@@ -12,9 +12,8 @@
 <!-- Focus -->
 <h2>Currently focused on</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Csharp-icon.svg" width="50" height="50" alt="C#" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/DotNet-icon.svg" width="50" height="50" alt=".NET" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Vue-icon.svg" width="50" height="50" alt="Vue.js" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/LuccaGiovane/LuccaGiovane/main/public/icons/nestjs-svgrepo-com.svg" width="50" height="50" alt="Nest" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/LuccaGiovane/LuccaGiovane/main/public/icons/nextjs-icon-svgrepo-com" width="50" height="50" alt="Next" style="margin: 0 10px;" />
 </p>
 <br>
 
@@ -25,15 +24,9 @@
   <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/DotNet-icon.svg" width="48" height="48" alt=".NET" style="margin: 0 6px;" />
   <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Vue-icon.svg" width="48" height="48" alt="Vue.js" style="margin: 0 6px;" />
   <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/knockout-icon.svg" width="48" height="48" alt="Knockout.js" style="margin: 0 6px;" />
-  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Html-icon.svg" width="48" height="48" alt="HTML" style="margin: 0 6px;" />
-  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Css-icon.svg" width="48" height="48" alt="CSS" style="margin: 0 6px;" />
-  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Javascript-icon.svg" width="48" height="48" alt="JavaScript" style="margin: 0 6px;" />
   <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Git-icon.svg" width="48" height="48" alt="Git" style="margin: 0 6px;" />
-  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Github-icon.svg" width="48" height="48" alt="GitHub" style="margin: 0 6px;" />
   <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Postgres-icon.svg" width="48" height="48" alt="PostgreSQL" style="margin: 0 6px;" />
-  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Dbeaver-icon.svg" width="48" height="48" alt="Dbeaver" style="margin: 0 6px;" />
   <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Docker-icon.svg" width="48" height="48" alt="Docker" style="margin: 0 6px;" />
-  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Termius-icon.svg" width="48" height="48" alt="Termius" style="margin: 0 6px;" />
   <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/RabbitMQ-icon.svg" width="48" height="48" alt="RabbitMQ" style="margin: 0 6px;" />
 </p>
 <br>
@@ -42,7 +35,7 @@
 <h2>GitHub Stats</h2>
 <p align="center">
   <a href="https://github.com/LuccaGiovane">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LuccaGiovane&layout=compact&langs_count=8&theme=calm&hide_border=true&title_color=5cdcf4&icon_color=5cdcf4&text_color=8b949e&bg_color=0d1117" height="135em" alt="languages graph" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LuccaGiovane&layout=compact&langs_count=8&theme=calm&hide_border=true&title_color=5cdcf4&icon_color=5cdcf4&text_color=8b949e&bg_color=0d1117&hide=c" height="135em" alt="languages graph" />
     <img src="https://github-stats-extended.vercel.app/api?username=LuccaGiovane&show_icons=true&include_all_commits=true&theme=calm&hide_border=true&title_color=5cdcf4&icon_color=5cdcf4&text_color=8b949e&bg_color=0d1117" height="135em" alt="stats graph" />
   </a>
 </p>
