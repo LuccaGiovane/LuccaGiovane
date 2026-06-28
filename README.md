@@ -90,7 +90,9 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://luccagiovane.github.io/Portfolio/" target="_blank"><b>More about me &nbsp;&#8599;</b></a>
+  <a href="https://luccagiovane.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/More_about_me-8839ef?style=for-the-badge&logo=githubpages&logoColor=white" alt="More about me" />
+  </a>
 </p>
 
 <!-- Footer -->
