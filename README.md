@@ -1,62 +1,97 @@
 <!-- Header -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cdcf4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8839ef&height=120&section=header"/>
 
 <!-- Presentation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5cdcf4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!;My+name+is+Lucca;MSc+student+in+Computer+Science+at+UEL;Be+Welcome!)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://luccagiovane.github.io/Portfolio/">
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&color=8839ef&size=30&center=true&vCenter=true&width=1000&lines=Hello%2C+World!;My+name+is+Lucca;Full-Stack+Developer+%40+TARS;MSc+student+in+Computer+Science+%40+UEL;Be+Welcome!" alt="Typing SVG" />
+  </a>
+</p>
 
 <!-- Octocat -->
 <div align="center">
-  <img align="center" src="https://github.com/LuccaGiovane/LuccaGiovane/blob/main/.github/workflows/octocat.png" width="200px"/>
+  <img src="https://raw.githubusercontent.com/LuccaGiovane/LuccaGiovane/main/.github/workflows/octocat.png" width="200px" alt="Octocat"/>
 </div>
 
 <!-- Focus -->
-<h2>Currently focused on</h2>
+<h2 align="center">Currently focused on</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LuccaGiovane/LuccaGiovane/main/img/nestjs-svgrepo-com.svg" width="50" height="50" alt="Nest" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/LuccaGiovane/LuccaGiovane/main/img/nextjs-icon-svgrepo-com.svg" width="50" height="50" alt="Next" style="margin: 0 10px;" />
+  <img src="https://cdn.simpleicons.org/nestjs/8839ef" width="50" height="50" alt="NestJS" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/8839ef" width="50" height="50" alt="Next.js" />
 </p>
 <br>
 
 <!-- Languages and Tools -->
-<h2>Languages and Tools</h2>
+<h2 align="center">Languages and Tools</h2>
+
+<p align="center"><sub><b>FRONTEND</b></sub></p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Csharp-icon.svg" width="48" height="48" alt="C#" style="margin: 0 6px;" />
-  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/DotNet-icon.svg" width="48" height="48" alt=".NET" style="margin: 0 6px;" />
-  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Vue-icon.svg" width="48" height="48" alt="Vue.js" style="margin: 0 6px;" />
-  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/knockout-icon.svg" width="48" height="48" alt="Knockout.js" style="margin: 0 6px;" />
-  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Git-icon.svg" width="48" height="48" alt="Git" style="margin: 0 6px;" />
-  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Postgres-icon.svg" width="48" height="48" alt="PostgreSQL" style="margin: 0 6px;" />
-  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Docker-icon.svg" width="48" height="48" alt="Docker" style="margin: 0 6px;" />
-  <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/RabbitMQ-icon.svg" width="48" height="48" alt="RabbitMQ" style="margin: 0 6px;" />
+  <img src="https://cdn.simpleicons.org/typescript/8839ef" width="48" height="48" alt="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/8839ef" width="48" height="48" alt="Next.js" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/vuedotjs/8839ef" width="48" height="48" alt="Vue.js" />
+</p>
+
+<p align="center"><sub><b>BACKEND</b></sub></p>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/nodedotjs/8839ef" width="48" height="48" alt="Node.js" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/nestjs/8839ef" width="48" height="48" alt="NestJS" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/prisma/8839ef" width="48" height="48" alt="Prisma" />
+  <img src="https://cdn.simpleicons.org/dotnet/8839ef" width="48" height="48" alt=".NET" />
+  &nbsp;
+  <img src="https://api.iconify.design/simple-icons/csharp.svg?color=%238839ef" width="48" height="48" alt="C#" />
+  &nbsp;
+</p>
+
+<p align="center"><sub><b>TOOLS</b></sub></p>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/postgresql/8839ef" width="48" height="48" alt="PostgreSQL" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/rabbitmq/8839ef" width="48" height="48" alt="RabbitMQ" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/docker/8839ef" width="48" height="48" alt="Docker" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/git/8839ef" width="48" height="48" alt="Git" />
 </p>
 <br>
 
 <!-- Stats -->
-<h2>GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 <p align="center">
   <a href="https://github.com/LuccaGiovane">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LuccaGiovane&layout=compact&langs_count=8&theme=calm&hide_border=true&title_color=5cdcf4&icon_color=5cdcf4&text_color=8b949e&bg_color=0d1117&hide=c" height="135em" alt="languages graph" />
-    <img src="https://github-stats-extended.vercel.app/api?username=LuccaGiovane&show_icons=true&include_all_commits=true&theme=calm&hide_border=true&title_color=5cdcf4&icon_color=5cdcf4&text_color=8b949e&bg_color=0d1117" height="135em" alt="stats graph" />
+    <img src="https://raw.githubusercontent.com/LuccaGiovane/LuccaGiovane/main/output/top-langs.svg" height="170px" alt="Top languages" />
+    <img src="https://raw.githubusercontent.com/LuccaGiovane/LuccaGiovane/main/output/stats.svg" height="170px" alt="GitHub stats" />
   </a>
 </p>
-  <!-- Snake -->
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/LuccaGiovane/LuccaGiovane/main/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake eating contributions" />
-  </p>
-</div>
+
+<!-- Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LuccaGiovane/LuccaGiovane/main/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake eating contributions" />
+  <img src="https://raw.githubusercontent.com/LuccaGiovane/LuccaGiovane/main/output/github-contribution-grid-snake-light.svg#gh-light-mode-only" alt="Snake eating contributions" />
+</p>
 
 <!-- Contacts -->
-<h2>Contacts</h2>
+<h2 align="center">Contacts</h2>
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lucca.giovane.gomes@uel.br&su=Contato%20via%20GitHub&body=Olá%20Lucca," target="_blank">
-    <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Email-icon.svg" width="48" height="48" alt="Email" style="margin: 0 8px;" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=contato.luccagomes@gmail.com&su=Contato%20via%20GitHub&body=Olá%20Lucca," target="_blank">
+    <img src="https://api.iconify.design/mdi/gmail.svg?color=%238839ef" width="48" height="48" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/luccagiovane/" target="_blank">
-    <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Linkedin-logo.svg" width="48" height="48" alt="LinkedIn" style="margin: 0 8px;" />
+    <img src="https://api.iconify.design/mdi/linkedin.svg?color=%238839ef" width="48" height="48" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/_luuuucca/" target="_blank">
-    <img src="https://raw.githubusercontent.com/LuccaGiovane/Portfolio/main/public/icons/Instagram-logo.svg" width="48" height="48" alt="Instagram" style="margin: 0 8px;" />
+    <img src="https://api.iconify.design/mdi/instagram.svg?color=%238839ef" width="48" height="48" alt="Instagram" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://luccagiovane.github.io/Portfolio/" target="_blank"><b>More about me &nbsp;&#8599;</b></a>
 </p>
 
 <!-- Footer -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cdcf4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8839ef&height=120&section=footer"/>
