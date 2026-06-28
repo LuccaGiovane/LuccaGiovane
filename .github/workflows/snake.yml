@@ -80,12 +80,13 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#5cdcf4&color_dots=#21262d,#0d3d38,#0d5c52,#22d3ee,#5cdcf4
+            output/github-contribution-grid-snake-dark.svg?color_snake=#cba6f7&color_dots=#1e1e2e,#45475a,#7f849c,#b48ef0,#cba6f7
+            output/github-contribution-grid-snake-light.svg?color_snake=#8839ef&color_dots=#eff1f5,#ccd0da,#b8c0e0,#a06cf0,#8839ef
 
       - name: Commit snake
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           mkdir -p output
-          git add output/github-contribution-grid-snake-dark.svg
+          git add output/github-contribution-grid-snake-dark.svg output/github-contribution-grid-snake-light.svg
           git diff --staged --quiet || (git commit -m "chore: update contribution snake" && git push)
