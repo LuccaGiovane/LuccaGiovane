@@ -41,6 +41,7 @@
   <img src="https://cdn.simpleicons.org/nestjs/8839ef" width="48" height="48" alt="NestJS" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/prisma/8839ef" width="48" height="48" alt="Prisma" />
+  &nbsp;
   <img src="https://cdn.simpleicons.org/dotnet/8839ef" width="48" height="48" alt=".NET" />
   &nbsp;
   <img src="https://api.iconify.design/simple-icons/csharp.svg?color=%238839ef" width="48" height="48" alt="C#" />
