@@ -1,0 +1,4 @@
+# Assets gerados automaticamente pelos workflows (snake + cards de stats).
+# linguist-generated => não entram na contagem de "linguagens" do repo
+# e ficam colapsados nos diffs.
+output/*.svg linguist-generated=true
