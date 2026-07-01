@@ -10,7 +10,7 @@
 
 <!-- Octocat -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LuccaGiovane/LuccaGiovane/main/.github/workflows/octocat.png" width="200px" alt="Octocat"/>
+  <img src="https://raw.githubusercontent.com/LuccaGiovane/LuccaGiovane/main/img/octocat.png" width="200px" alt="Octocat"/>
 </div>
 
 <!-- Focus -->
