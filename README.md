@@ -64,8 +64,8 @@
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
   <a href="https://github.com/LuccaGiovane">
-    <img src="https://raw.githubusercontent.com/LuccaGiovane/LuccaGiovane/main/output/top-langs.svg" height="170px" alt="Top languages" />
-    <img src="https://raw.githubusercontent.com/LuccaGiovane/LuccaGiovane/main/output/stats.svg" height="170px" alt="GitHub stats" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LuccaGiovane&layout=compact&langs_count=8&count_private=true&theme=catppuccin_mocha&hide_border=true&locale=en&title_color=8839ef&text_color=cdd6f4&bg_color=1e1e2e&size_weight=0.5&count_weight=0.5&exclude_repo=UEL-CompGrafica" height="170px" alt="Top languages" />
+    <img src="https://github-stats-extended.vercel.app/api?username=LuccaGiovane&show_icons=true&include_all_commits=true&count_private=true&theme=catppuccin_mocha&hide_border=true&locale=en&title_color=8839ef&icon_color=8839ef&text_color=cdd6f4&bg_color=1e1e2e" height="170px" alt="GitHub stats" />
   </a>
 </p>
 
